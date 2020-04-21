@@ -66,10 +66,4 @@ After you've analyzed your data to your satisfaction, you'll put together a pres
 
 This presentation will be delivered as a slideshow, and should give your classmates and instructional staff an overview of your work. PowerPoint, Keynote, and Google Slides are all acceptable for building slides.
 
-As long as your slides meet the [presentation requirements](PresentationRequirements.md), you are free to structure the presentation however you wish, but students are often successful with the format laid out in the [presentation guidelines](PresentationGuidelines.md).
 
-- - -
-
-### Copyright
-
-Coding Boot Camp © 2017. All Rights Reserved.
